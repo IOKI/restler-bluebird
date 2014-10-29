@@ -1,14 +1,14 @@
 restler-bluebird
 =========
 
-Based on Andrew Newdigate (reslter-q)[https://github.com/troupe/restler-q]
+Based on Andrew Newdigate [reslter-q](https://github.com/troupe/restler-q)
 
 
 
 Installing
 -----------------
 
-    currently not in npm
+    npm install tiriana/restler-bluebird --save
 
 
 Using
