@@ -1,15 +1,14 @@
-restler-q [![Build Status](https://api.travis-ci.org/troupe/restler-q.png)](https://api.travis-ci.org/troupe/restler-q.png)
+restler-bluebird
 =========
 
-(C) Andrew Newdigate (@suprememoocow), Licensed under the MIT-LICENSE
+Based on Andrew Newdigate (reslter-q)[https://github.com/troupe/restler-q]
 
-An extremely simple Q promises wrapper for [Don Wrong's Restler](https://github.com/danwrong/restler) library.
 
 
 Installing
 -----------------
 
-    npm install restler-q
+    currently not in npm
 
 
 Using
@@ -17,7 +16,7 @@ Using
 
 The interface is similar to Restler's interface:
 
-    var rest = require('restler-q');
+    var rest = require('restler-bluebird');
 
     rest.get('https://api.github.com/orgs/Troupe/repos')
       .then(function(repos) {
@@ -30,8 +29,3 @@ Running the tests
 
     npm install
     make test
-
-
-TODO
------------------
-* Provide ability to call `abort` and `retry` methods.
