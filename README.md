@@ -5,13 +5,10 @@ restler-bluebird
 
 Based on Andrew Newdigate [reslter-q](https://github.com/troupe/restler-q)
 
-
-
 Installing
 -----------------
 
-    npm install tiriana/restler-bluebird --save
-
+    npm install IOKI/restler-bluebird --save
 
 Using
 -----------------
