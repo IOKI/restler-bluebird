@@ -1,5 +1,3 @@
-ABONDONED - use [IOKI/restler-bluebird](https://github.com/IOKI/restler-bluebird)
-
 restler-bluebird
 =========
 
