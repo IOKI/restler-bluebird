@@ -1,35 +1,37 @@
 {
-    "name": "restler-bluebird",
-    "version": "0.0.1",
-    "description": "Bluebird wrapper for restler, based on reslter-q by Andrew Newdigate",
-    "main": "index.js",
-    "directories": {
-        "test": "test"
-    },
-    "dependencies": {
-        "bluebird": "^2.3.6",
-        "restler": "^3.2.2"
-    },
-    "devDependencies": {
-        "mocha": "^2.0.0"
-    },
-    "scripts": {
-        "test": "make test"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/tiriana/restler-bluebird.git"
-    },
-    "keywords": [
-        "bluebird",
-        "promises",
-        "restful",
-        "restler"
-    ],
-    "author": "Radomir Wojtera",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/tiriana/restler-bluebird/issues"
-    },
-    "homepage": "https://github.com/tiriana/restler-bluebird"
+  "name": "restler-bluebird",
+  "version": "0.0.1",
+  "description": "Bluebird wrapper for restler, based on reslter-q by Andrew Newdigate",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^2.3.6",
+    "restler": "^3.2.2"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.0",
+    "nock": "^0.57.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tiriana/restler-bluebird.git"
+  },
+  "keywords": [
+    "bluebird",
+    "promises",
+    "restful",
+    "restler"
+  ],
+  "author": "Radomir Wojtera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiriana/restler-bluebird/issues"
+  },
+  "homepage": "https://github.com/tiriana/restler-bluebird"
 }
