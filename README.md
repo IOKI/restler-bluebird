@@ -6,7 +6,7 @@ Based on Andrew Newdigate [reslter-q](https://github.com/troupe/restler-q)
 Installing
 -----------------
 
-    npm install IOKI/restler-bluebird --save
+    npm install restler-bluebird --save
 
 Using
 -----------------
@@ -25,4 +25,4 @@ Running the tests
 -----------------
 
     npm install
-    make test
+    npm test

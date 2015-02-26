@@ -11,12 +11,14 @@
     "restler": "^3.2.2"
   },
   "devDependencies": {
-    "chai": "^1.10.0",
+    "chai": "1.x.x",
+    "istanbul": "^0.3.6",
     "mocha": "^2.0.0",
-    "nock": "^0.57.0"
+    "nock": "^0.59.1"
   },
   "scripts": {
-    "test": "make test"
+    "preinstall": "npm prune",
+    "test": "make cover"
   },
   "repository": {
     "type": "git",
