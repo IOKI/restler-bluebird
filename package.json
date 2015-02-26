@@ -1,6 +1,6 @@
 {
   "name": "restler-bluebird",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Bluebird wrapper for restler, based on reslter-q by Andrew Newdigate",
   "main": "index.js",
   "directories": {
