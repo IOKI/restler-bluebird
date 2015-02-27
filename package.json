@@ -27,13 +27,15 @@
   "keywords": [
     "bluebird",
     "promises",
+    "Promise",
     "restful",
-    "restler"
+    "restler",
+    "rest"
   ],
   "author": "Radomir Wojtera",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tiriana/restler-bluebird/issues"
+    "url": "https://github.com/ioki/restler-bluebird/issues"
   },
-  "homepage": "https://github.com/tiriana/restler-bluebird"
+  "homepage": "https://github.com/ioki/restler-bluebird"
 }
